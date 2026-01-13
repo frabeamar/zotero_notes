@@ -1,0 +1,1 @@
+Comment: Technical Report. The code is released at https://github.com/CASIA-IVA-Lab/FastSAM

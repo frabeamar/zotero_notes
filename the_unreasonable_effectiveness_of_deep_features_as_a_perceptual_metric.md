@@ -1,0 +1,1 @@
+Comment: Accepted to CVPR 2018; Code and data available at https://www.github.com/richzhang/PerceptualSimilarity

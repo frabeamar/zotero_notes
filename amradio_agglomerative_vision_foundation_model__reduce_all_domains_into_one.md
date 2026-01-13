@@ -1,0 +1,1 @@
+Comment: CVPR 2024 Version 3: CVPR Camera Ready, reconfigured full paper, table 1 is now more comprehensive Version 2: Added more acknowledgements and updated table 7 with more recent results. Ensured that the link in the abstract to our code is working properly Version 3: Fix broken hyperlinks
